@@ -1,0 +1,14 @@
+C:\Users\sueco\Documents\patrick_school\term_4\c_sharp\assignment2\backend\Assignment2Backend\bin\Debug\Assignment2Backend.exe.config
+C:\Users\sueco\Documents\patrick_school\term_4\c_sharp\assignment2\backend\Assignment2Backend\bin\Debug\Assignment2Backend.exe
+C:\Users\sueco\Documents\patrick_school\term_4\c_sharp\assignment2\backend\Assignment2Backend\bin\Debug\Assignment2Backend.pdb
+C:\Users\sueco\Documents\patrick_school\term_4\c_sharp\assignment2\backend\Assignment2Backend\obj\Debug\Assignment2Backend.csprojAssemblyReference.cache
+C:\Users\sueco\Documents\patrick_school\term_4\c_sharp\assignment2\backend\Assignment2Backend\obj\Debug\Assignment2Backend.csproj.CoreCompileInputs.cache
+C:\Users\sueco\Documents\patrick_school\term_4\c_sharp\assignment2\backend\Assignment2Backend\obj\Debug\Assignment2Backend.exe
+C:\Users\sueco\Documents\patrick_school\term_4\c_sharp\assignment2\backend\Assignment2Backend\obj\Debug\Assignment2Backend.pdb
+C:\Users\JamesHong\Desktop\SDNE-term4\csharp\Assignments\Assignment2Backend\bin\Debug\Assignment2Backend.exe.config
+C:\Users\JamesHong\Desktop\SDNE-term4\csharp\Assignments\Assignment2Backend\bin\Debug\Assignment2Backend.exe
+C:\Users\JamesHong\Desktop\SDNE-term4\csharp\Assignments\Assignment2Backend\bin\Debug\Assignment2Backend.pdb
+C:\Users\JamesHong\Desktop\SDNE-term4\csharp\Assignments\Assignment2Backend\obj\Debug\Assignment2Backend.csprojAssemblyReference.cache
+C:\Users\JamesHong\Desktop\SDNE-term4\csharp\Assignments\Assignment2Backend\obj\Debug\Assignment2Backend.csproj.CoreCompileInputs.cache
+C:\Users\JamesHong\Desktop\SDNE-term4\csharp\Assignments\Assignment2Backend\obj\Debug\Assignment2Backend.exe
+C:\Users\JamesHong\Desktop\SDNE-term4\csharp\Assignments\Assignment2Backend\obj\Debug\Assignment2Backend.pdb
